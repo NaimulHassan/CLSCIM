@@ -1,3 +1,2 @@
 # CLSCIM
-Closed loop speed control of Induction Motor using SIMULINK
-SVPWM (Space Vector Pulse Width Modulation) based
+SVPWM (Space Vector Pulse Width Modulation) based closed loop speed control of induction motor using SIMULINK
